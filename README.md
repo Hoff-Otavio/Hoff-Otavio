@@ -21,7 +21,7 @@ with **Laravel**, **Vue** and **React**, and I still use **Python** for automati
 ### <img src="assets/icons/stack.svg" width="20" alt=""/> Tech stack
 
 <p align="center">
-  <img src="assets/stack.svg" width="100%" alt="Languages: PHP, JavaScript, TypeScript, SQL, LESS, Python, C#, C, Blade. Platforms: Magento 2, Luma themes, Knockout.js, RequireJS, Laravel, Vue.js, React, Flask. Data: MySQL/MariaDB, SQL Server, MongoDB, Redis, OpenSearch. Tools: Linux, Docker, Git, Nginx, Apache, Composer, Claude Code."/>
+  <img src="assets/stack.svg" width="100%" alt="Languages: PHP, JavaScript, TypeScript, SQL, LESS, Python, C#, C, Blade. Platforms: Magento 2, Luma themes, Knockout.js, RequireJS, Laravel, Vue.js, React, Flask. Data: MySQL/MariaDB, SQL Server, MongoDB, Redis, OpenSearch. Tools: Linux, Docker, Git, Nginx, Apache, Composer."/>
 </p>
 
 <p align="center">
