@@ -2,10 +2,6 @@
   <img src="assets/header.svg" width="100%" alt="Otávio Hoff - Backend Engineer, Magento 2 / PHP. I keep production e-commerce stores fast, secure and selling."/>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/otavio-hoff"><img src="assets/connect.svg" height="40" alt="Connect on LinkedIn"/></a>
-</p>
-
 ### <img src="assets/icons/about.svg" width="20" alt=""/> About me
 
 I'm a backend engineer focused on **Magento 2 / PHP**. Day to day I support **50+ production
