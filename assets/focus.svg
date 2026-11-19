@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="440" viewBox="0 0 880 440" role="img" aria-labelledby="t d">
+  <title id="t">What I work on</title>
+  <desc id="d">Checkout and payments, integrations, performance, security, custom modules and production debugging on Magento 2.</desc>
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#121c33"/>
+      <stop offset="1" stop-color="#0d1526"/>
+    </linearGradient>
+    <style>
+      .sans { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+      .t { font-size: 17px; font-weight: 700; fill: #f8fafc; }
+      .l { font-size: 13px; fill: #94a3b8; }
+      .k { font-size: 11px; fill: #64748b; letter-spacing: 1.5px; }
+      .ic { fill: none; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+    </style>
+    <g id="box">
+      <rect width="280" height="205" rx="14" fill="url(#card)" stroke="#24324f"/>
+    </g>
+  </defs>
+
+  <!-- 1. checkout & payments -->
+  <g transform="translate(0 0)">
+    <use href="#box"/>
+    <rect x="22" y="22" width="40" height="40" rx="10" fill="#f97316" fill-opacity="0.12"/>
+    <g class="ic" stroke="#f97316" transform="translate(30 30)">
+      <rect x="1" y="5" width="22" height="14" rx="2.5"/><path d="M1 10h22M5 15h5"/>
+    </g>
+    <text x="22" y="92" class="sans t">Checkout &amp; payments</text>
+    <text x="22" y="122" class="sans l">Pagar.me, eRede, PagBank, ClearSale</text>
+    <text x="22" y="145" class="sans l">Brazilian checkout: CPF/CNPJ, IE</text>
+    <text x="22" y="168" class="sans l">Chargeback and order forensics</text>
+    <text x="22" y="190" class="mono k">01</text>
+  </g>
+
+  <!-- 2. integrations -->
+  <g transform="translate(300 0)">
+    <use href="#box"/>
+    <rect x="22" y="22" width="40" height="40" rx="10" fill="#14b8a6" fill-opacity="0.12"/>
+    <g class="ic" stroke="#14b8a6" transform="translate(30 30)">
+      <path d="M8 2v5M16 2v5M5 7h14v4a7 7 0 0 1-14 0zM12 18v4"/>
+    </g>
+    <text x="22" y="92" class="sans t">Integrations</text>
+    <text x="22" y="122" class="sans l">ERP and marketplace sync (REST)</text>
+    <text x="22" y="145" class="sans l">Shipping: Melhor Envio, carriers</text>
+    <text x="22" y="168" class="sans l">Webhooks, queues, cron, indexers</text>
+    <text x="22" y="190" class="mono k">02</text>
+  </g>
+
+  <!-- 3. performance -->
+  <g transform="translate(600 0)">
+    <use href="#box"/>
+    <rect x="22" y="22" width="40" height="40" rx="10" fill="#f59e0b" fill-opacity="0.12"/>
+    <g class="ic" stroke="#f59e0b" transform="translate(30 30)">
+      <path d="M3 17a9 9 0 1 1 18 0"/><path d="M12 17l5-6"/><circle cx="12" cy="17" r="1.4"/>
+    </g>
+    <text x="22" y="92" class="sans t">Performance</text>
+    <text x="22" y="122" class="sans l">Core Web Vitals: LCP, CLS, INP</text>
+    <text x="22" y="145" class="sans l">Mobile PageSpeed <tspan fill="#f59e0b" font-weight="700">40 → 97</tspan> in a day</text>
+    <text x="22" y="168" class="sans l">Full-page cache, Redis, TTFB</text>
+    <text x="22" y="190" class="mono k">03</text>
+  </g>
+
+  <!-- 4. security -->
+  <g transform="translate(0 225)">
+    <use href="#box"/>
+    <rect x="22" y="22" width="40" height="40" rx="10" fill="#14b8a6" fill-opacity="0.12"/>
+    <g class="ic" stroke="#14b8a6" transform="translate(30 30)">
+      <path d="M12 2l8 3v6c0 5-3.5 8.5-8 11-4.5-2.5-8-6-8-11V5z"/><path d="M8.5 12l2.5 2.5 4.5-5"/>
+    </g>
+    <text x="22" y="92" class="sans t">Security</text>
+    <text x="22" y="122" class="sans l">Adobe isolated patches, hotfix tooling</text>
+    <text x="22" y="145" class="sans l">Incident response, skimmer cleanup</text>
+    <text x="22" y="168" class="sans l">Bot and attack triage from logs</text>
+    <text x="22" y="190" class="mono k">04</text>
+  </g>
+
+  <!-- 5. custom modules -->
+  <g transform="translate(300 225)">
+    <use href="#box"/>
+    <rect x="22" y="22" width="40" height="40" rx="10" fill="#f97316" fill-opacity="0.12"/>
+    <g class="ic" stroke="#f97316" transform="translate(30 30)">
+      <path d="M12 2l9 5v10l-9 5-9-5V7z"/><path d="M3 7l9 5 9-5M12 12v10"/>
+    </g>
+    <text x="22" y="92" class="sans t">Custom modules</text>
+    <text x="22" y="122" class="sans l">Magento 2 modules, strict types</text>
+    <text x="22" y="145" class="sans l">Rollouts: <tspan class="mono" font-size="12" fill="#cbd5e1">log_only → enforce</tspan></text>
+    <text x="22" y="168" class="sans l">Vendor patches, PHPStan / PHPCS</text>
+    <text x="22" y="190" class="mono k">05</text>
+  </g>
+
+  <!-- 6. production debugging -->
+  <g transform="translate(600 225)">
+    <use href="#box"/>
+    <rect x="22" y="22" width="40" height="40" rx="10" fill="#f59e0b" fill-opacity="0.12"/>
+    <g class="ic" stroke="#f59e0b" transform="translate(30 30)">
+      <rect x="2" y="3" width="20" height="18" rx="2.5"/><path d="M6 9l3 3-3 3M11 15h6"/>
+    </g>
+    <text x="22" y="92" class="sans t">Production debugging</text>
+    <text x="22" y="122" class="sans l">Root cause on live stores</text>
+    <text x="22" y="145" class="sans l">Logs, SQL, timelines, evidence</text>
+    <text x="22" y="168" class="sans l">Zero-downtime deploys</text>
+    <text x="22" y="190" class="mono k">06</text>
+  </g>
+</svg>

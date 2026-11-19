@@ -1,59 +1,48 @@
-<h1 align="center">Hi there, I'm Otávio Hoff 👋</h1>
-
 <p align="center">
-  <b>Backend & Full-Stack Developer</b> · Magento 2 / PHP specialist
+  <img src="assets/header.svg" width="100%" alt="Otávio Hoff - Backend Engineer, Magento 2 / PHP. I keep production e-commerce stores fast, secure and selling."/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/otavio-hoff">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <a href="https://www.linkedin.com/in/otavio-hoff"><img src="assets/connect.svg" height="40" alt="Connect on LinkedIn"/></a>
 </p>
 
----
+### <img src="assets/icons/about.svg" width="20" alt=""/> About me
 
-### 🚀 About me
+I'm a backend engineer focused on **Magento 2 / PHP**. Day to day I support **50+ production
+stores** in Brazil, B2C and B2B: the parts that move money and break at 3 a.m. - checkout,
+payment gateways, ERP and shipping integrations, performance and security.
 
-- 🛒 Currently building and maintaining e-commerce solutions on **Magento 2 / PHP**
-- 💻 Full-stack: comfortable across the back end (**Laravel**) and modern JavaScript/TypeScript front ends (**Vue** & **React**)
-- 🗄️ Strong with relational and NoSQL databases — **MySQL, SQL Server, MongoDB**
-- 🐍 Also work with **Python** for automation, data, and ML experiments
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/otavio-hoff)
+I'm comfortable across the stack: **Laravel** on the back end, **Vue** and **React** on the
+front, **MySQL, SQL Server and MongoDB** for data, and **Python** for automation and data work.
 
----
+### <img src="assets/icons/focus.svg" width="20" alt=""/> What I work on
 
-### 🛠️ Tech Stack
+<p align="center">
+  <img src="assets/focus.svg" width="100%" alt="Checkout and payments (Pagar.me, eRede, PagBank, ClearSale; Brazilian checkout with CPF/CNPJ and IE). Integrations (ERP and marketplace sync, shipping, webhooks, queues, cron). Performance (Core Web Vitals; mobile PageSpeed from 40 to 97 in a day; full-page cache, Redis, TTFB). Security (Adobe isolated patches, incident response, bot triage). Custom modules (strict types, log_only to enforce rollouts, vendor patches). Production debugging (root cause on live stores, zero-downtime deploys)."/>
+</p>
 
-**Languages**
+### <img src="assets/icons/workflow.svg" width="20" alt=""/> How I work
 
-![Blade](https://img.shields.io/badge/Blade-F7523F?style=flat-square&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+- **Evidence before conclusions.** Diagnose from the outside first (served HTML, logs, PageSpeed),
+  confirm the exact symptom, and keep a record of every hypothesis that was ruled out.
+- **Production is sacred.** Changes are tested in a production-mode homolog, shipped as one
+  reviewed package and always come with a rollback.
+- **Ship behavior changes safely.** New modules start in `log_only`, get validated by their own
+  logs, and only then switch to `enforce`.
+- **AI-assisted, human-owned.** I use Claude Code with task-specific skills and agents, plus a
+  blind review by a second model on high-impact diagnoses. The final call is always mine.
 
-**Frameworks & Platforms**
+### <img src="assets/icons/stack.svg" width="20" alt=""/> Tech stack
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Magento](https://img.shields.io/badge/Magento%202-EE672F?style=flat-square&logo=magento&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+<p align="center">
+  <img src="assets/stack.svg" width="100%" alt="Languages: PHP, JavaScript, TypeScript, Python, SQL, C#, C, Blade. Platforms: Magento 2, Laravel, Vue.js, React, Flask, Knockout.js, RequireJS. Data: MySQL/MariaDB, SQL Server, MongoDB, Redis, OpenSearch. Infra: Linux, Docker, Git, Nginx, Apache, Composer. AI workflow: Claude Code, skills and agents, multi-model review."/>
+</p>
 
-**Databases**
+### <img src="assets/icons/contact.svg" width="20" alt=""/> Let's talk
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+Magento store that's slow, losing orders at checkout, or needs an integration done right?
+Reach me on [LinkedIn](https://www.linkedin.com/in/otavio-hoff).
 
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-<p align="center"><i>Always learning, always shipping. 🚢</i></p>
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="evidence first · reversible changes · ship it"/>
+</p>

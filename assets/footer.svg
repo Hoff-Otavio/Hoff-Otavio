@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="60" viewBox="0 0 880 60" role="img" aria-label="Evidence first. Reversible changes. Ship it.">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f97316" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#f59e0b"/>
+      <stop offset="1" stop-color="#14b8a6" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="140" y="14" width="600" height="1.5" fill="url(#g)"/>
+  <text x="440" y="44" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#64748b">evidence first <tspan fill="#f97316">·</tspan> reversible changes <tspan fill="#f97316">·</tspan> ship it</text>
+</svg>
