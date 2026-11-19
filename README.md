@@ -12,8 +12,9 @@ I'm a backend engineer focused on **Magento 2 / PHP**. Day to day I support **50
 stores** in Brazil, B2C and B2B: the parts that move money and break at 3 a.m. - checkout,
 payment gateways, ERP and shipping integrations, performance and security.
 
-I'm comfortable across the stack: **Laravel** on the back end, **Vue** and **React** on the
-front, **MySQL, SQL Server and MongoDB** for data, and **Python** for automation and data work.
+On the front end I work mostly on **Luma-based Magento themes** (LESS, RequireJS, Knockout,
+UI components) and I'm starting to adopt **Breeze**. Before Magento took center stage I built
+with **Laravel**, **Vue** and **React**, and I still use **Python** for automation and data work.
 
 ### <img src="assets/icons/focus.svg" width="20" alt=""/> What I work on
 
@@ -24,7 +25,7 @@ front, **MySQL, SQL Server and MongoDB** for data, and **Python** for automation
 ### <img src="assets/icons/stack.svg" width="20" alt=""/> Tech stack
 
 <p align="center">
-  <img src="assets/stack.svg" width="100%" alt="Languages: PHP, JavaScript, TypeScript, Python, SQL, C#, C, Blade. Platforms: Magento 2, Laravel, Vue.js, React, Flask, Knockout.js, RequireJS. Data: MySQL/MariaDB, SQL Server, MongoDB, Redis, OpenSearch. Tools: Linux, Docker, Git, Nginx, Apache, Composer, Claude Code."/>
+  <img src="assets/stack.svg" width="100%" alt="Languages: PHP, JavaScript, TypeScript, SQL, LESS, Python, C#, C, Blade. Platforms: Magento 2, Luma themes, Knockout.js, RequireJS, Laravel, Vue.js, React, Flask. Data: MySQL/MariaDB, SQL Server, MongoDB, Redis, OpenSearch. Tools: Linux, Docker, Git, Nginx, Apache, Composer, Claude Code."/>
 </p>
 
 <p align="center">
