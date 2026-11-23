@@ -40,5 +40,4 @@
   <g transform="translate(391 226)"><rect width="67" height="30" rx="8" fill="#38bdf8" fill-opacity="0.08" stroke="#38bdf8" stroke-opacity="0.35"/><circle cx="12" cy="15.0" r="3" fill="#38bdf8"/><text x="21" y="19.5" class="sans" font-size="13" fill="#e2e8f0">Nginx</text></g>
   <g transform="translate(466 226)"><rect width="74" height="30" rx="8" fill="#38bdf8" fill-opacity="0.08" stroke="#38bdf8" stroke-opacity="0.35"/><circle cx="12" cy="15.0" r="3" fill="#38bdf8"/><text x="21" y="19.5" class="sans" font-size="13" fill="#e2e8f0">Apache</text></g>
   <g transform="translate(548 226)"><rect width="89" height="30" rx="8" fill="#38bdf8" fill-opacity="0.08" stroke="#38bdf8" stroke-opacity="0.35"/><circle cx="12" cy="15.0" r="3" fill="#38bdf8"/><text x="21" y="19.5" class="sans" font-size="13" fill="#e2e8f0">Composer</text></g>
-  <g transform="translate(645 226)"><rect width="111" height="30" rx="8" fill="#38bdf8" fill-opacity="0.08" stroke="#38bdf8" stroke-opacity="0.35"/><circle cx="12" cy="15.0" r="3" fill="#38bdf8"/><text x="21" y="19.5" class="sans" font-size="13" fill="#e2e8f0">Claude Code</text></g>
 </svg>
