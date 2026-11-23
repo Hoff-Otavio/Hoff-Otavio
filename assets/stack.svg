@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="288" viewBox="0 0 880 288" role="img" aria-labelledby="t">
-  <title id="t">Tech stack: Languages: PHP, JavaScript, TypeScript, SQL, LESS, Python, C#, C, Blade; Platforms: Magento 2, Luma themes, Knockout.js, RequireJS, Laravel, Vue.js, React, Flask; Data: MySQL / MariaDB, SQL Server, MongoDB, Redis, OpenSearch; Tools: Linux, Docker, Git, Nginx, Apache, Composer, Claude Code</title>
+  <title id="t">Tech stack: Languages: PHP, JavaScript, TypeScript, SQL, LESS, Python, C#, C, Blade; Platforms: Magento 2, Luma themes, Knockout.js, RequireJS, Laravel, Vue.js, React, Flask; Data: MySQL / MariaDB, SQL Server, MongoDB, Redis, OpenSearch; Tools: Linux, Docker, Git, Nginx, Apache, Composer</title>
   <style>
     .sans { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
     .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
