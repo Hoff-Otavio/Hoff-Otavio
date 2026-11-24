@@ -24,12 +24,10 @@ with **Laravel**, **Vue** and **React**, and I still use **Python** for automati
   <img src="assets/stack.svg" width="100%" alt="Languages: PHP, JavaScript, TypeScript, SQL, LESS, Python, C#, C, Blade. Platforms: Magento 2, Luma themes, Knockout.js, RequireJS, Laravel, Vue.js, React, Flask. Data: MySQL/MariaDB, SQL Server, MongoDB, Redis, OpenSearch. Tools: Linux, Docker, Git, Nginx, Apache, Composer."/>
 </p>
 
+### <img src="assets/icons/activity.svg" width="20" alt=""/> Contributions
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hoff-Otavio/Hoff-Otavio/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hoff-Otavio/Hoff-Otavio/output/github-snake.svg"/>
-    <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Hoff-Otavio/Hoff-Otavio/output/github-snake.svg" width="100%"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/Hoff-Otavio/Hoff-Otavio/output/github-snake.svg" width="100%" alt="Snake eating my GitHub contribution graph"/>
 </p>
 
 <p align="center">
