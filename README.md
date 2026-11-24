@@ -25,5 +25,13 @@ with **Laravel**, **Vue** and **React**, and I still use **Python** for automati
 </p>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hoff-Otavio/Hoff-Otavio/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hoff-Otavio/Hoff-Otavio/output/github-snake.svg"/>
+    <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Hoff-Otavio/Hoff-Otavio/output/github-snake.svg" width="100%"/>
+  </picture>
+</p>
+
+<p align="center">
   <img src="assets/footer.svg" width="100%" alt="Always learning, always shipping."/>
 </p>
